@@ -1,0 +1,11 @@
+product -> typeId, price, stock
+types -> id, name
+
+
+apis: GETALL, .GETBYID, POST, PUT(PATCH), DELETE,
+
+TODO
+-----
+first step: init express app
+Second step: handle apis
+

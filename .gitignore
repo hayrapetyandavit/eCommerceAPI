@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build files
+dist/
+build/
+
+# Tests
+/coverage/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Local environment files
+.envrc
+.venv
+*.local
+
+# Ignore lock files if not required
+package-lock.json
+yarn.lock
+
+# Ignore Docker artifacts
+docker-compose.override.yml
+.dockerignore
+
+# Ignore eslint cache
+.eslintcache
+
+# Ignore compiled TypeScript files (if applicable)
+*.tsbuildinfo

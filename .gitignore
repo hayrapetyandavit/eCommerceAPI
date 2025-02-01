@@ -46,3 +46,6 @@ docker-compose.override.yml
 
 # Ignore compiled TypeScript files (if applicable)
 *.tsbuildinfo
+
+# development
+todo.md
